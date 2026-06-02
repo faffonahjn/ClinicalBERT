@@ -1,0 +1,14 @@
+{
+  "test_accuracy": 0.4966442953020134,
+  "macro_f1": 0.47395587614006196,
+  "weighted_f1": 0.4980851593691399,
+  "macro_auc": 0.8788815331832752,
+  "per_class_auc": {
+    "Cardiovascular & Respiratory": 0.9045920838286443,
+    "Emergency & Critical": 0.8710151424586572,
+    "Maternal, Child & Reproductive": 0.9041467907240354,
+    "Medical & Primary Care": 0.8049934918944504,
+    "Neurological & Psychiatric": 0.9436758893280632,
+    "Surgical": 0.8448658008658008
+  }
+}

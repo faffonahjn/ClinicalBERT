@@ -1,3 +1,18 @@
-/.vscode
-/app
-/logs
+# Model weights — too large for GitHub
+models/
+
+# Data
+raw/
+processed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Conda
+*.egg-info/
+
+# VS Code
+.vscode/
