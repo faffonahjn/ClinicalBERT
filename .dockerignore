@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.git
+.gitignore
+*.md
+logs/
+raw/
+train.csv
+val.csv
+test.csv
+*.ipynb
+Dockerfile.streamlit
